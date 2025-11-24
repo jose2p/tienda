@@ -1,0 +1,27 @@
+@import "tailwindcss";
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f0f2f5;
+}
+
+/* Estilo de tarjetas */
+.card {
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 12px;
+  cursor: pointer;
+  text-align: center;
+  width: 250px;
+  background-color: #fff;
+  color: #333;
+  font-size: 18px;
+  font-weight: bold;
+  transition: all 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+  background-color: #f9f9f9;
+}
