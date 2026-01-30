@@ -99,4 +99,4 @@ Asegúrate de tener instalados:
 ---
 ## 📝 Contribuidores
 
-* [Tu Nombre / Tu Usuario de GitHub]
+* jose2p
